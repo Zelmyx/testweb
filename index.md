@@ -2,6 +2,8 @@
 
 def func():
   print("Test")
+  
+func()
 
 You can use the [editor on GitHub](https://github.com/Zelmyx/testweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
